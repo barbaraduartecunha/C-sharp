@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conversao_de_tempo", "conversao_de_tempo\conversao_de_tempo.csproj", "{F1BE6D21-A474-4351-8D69-C8890240250A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1BE6D21-A474-4351-8D69-C8890240250A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BE6D21-A474-4351-8D69-C8890240250A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BE6D21-A474-4351-8D69-C8890240250A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BE6D21-A474-4351-8D69-C8890240250A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E4FADC6-66E4-4B85-9736-C3B8262B98B8}
+	EndGlobalSection
+EndGlobal

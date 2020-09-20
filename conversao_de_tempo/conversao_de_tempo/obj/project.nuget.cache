@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bVadheJ/K0BtKYHvMOvg6mVSpvnRkE/Et7RiKAw5Z+hoNPet0aIsVGaVzwDoQfpUJ5VlDhNzIcWq0bjS51v/lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\barba\\source\\repos\\conversao_de_tempo\\conversao_de_tempo\\conversao_de_tempo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

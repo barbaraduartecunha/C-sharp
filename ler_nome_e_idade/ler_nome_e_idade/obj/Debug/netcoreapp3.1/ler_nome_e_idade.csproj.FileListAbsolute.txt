@@ -1,0 +1,12 @@
+C:\Users\barba\source\repos\ler_nome_e_idade\ler_nome_e_idade\obj\Debug\netcoreapp3.1\ler_nome_e_idade.AssemblyInfoInputs.cache
+C:\Users\barba\source\repos\ler_nome_e_idade\ler_nome_e_idade\obj\Debug\netcoreapp3.1\ler_nome_e_idade.AssemblyInfo.cs
+C:\Users\barba\source\repos\ler_nome_e_idade\ler_nome_e_idade\obj\Debug\netcoreapp3.1\ler_nome_e_idade.csproj.CoreCompileInputs.cache
+C:\Users\barba\source\repos\ler_nome_e_idade\ler_nome_e_idade\bin\Debug\netcoreapp3.1\ler_nome_e_idade.exe
+C:\Users\barba\source\repos\ler_nome_e_idade\ler_nome_e_idade\bin\Debug\netcoreapp3.1\ler_nome_e_idade.deps.json
+C:\Users\barba\source\repos\ler_nome_e_idade\ler_nome_e_idade\bin\Debug\netcoreapp3.1\ler_nome_e_idade.runtimeconfig.json
+C:\Users\barba\source\repos\ler_nome_e_idade\ler_nome_e_idade\bin\Debug\netcoreapp3.1\ler_nome_e_idade.runtimeconfig.dev.json
+C:\Users\barba\source\repos\ler_nome_e_idade\ler_nome_e_idade\bin\Debug\netcoreapp3.1\ler_nome_e_idade.dll
+C:\Users\barba\source\repos\ler_nome_e_idade\ler_nome_e_idade\bin\Debug\netcoreapp3.1\ler_nome_e_idade.pdb
+C:\Users\barba\source\repos\ler_nome_e_idade\ler_nome_e_idade\obj\Debug\netcoreapp3.1\ler_nome_e_idade.dll
+C:\Users\barba\source\repos\ler_nome_e_idade\ler_nome_e_idade\obj\Debug\netcoreapp3.1\ler_nome_e_idade.pdb
+C:\Users\barba\source\repos\ler_nome_e_idade\ler_nome_e_idade\obj\Debug\netcoreapp3.1\ler_nome_e_idade.genruntimeconfig.cache

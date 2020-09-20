@@ -1,0 +1,13 @@
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\bin\Debug\netcoreapp3.1\conversao_de_tempo.exe
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\bin\Debug\netcoreapp3.1\conversao_de_tempo.deps.json
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\bin\Debug\netcoreapp3.1\conversao_de_tempo.runtimeconfig.json
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\bin\Debug\netcoreapp3.1\conversao_de_tempo.runtimeconfig.dev.json
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\bin\Debug\netcoreapp3.1\conversao_de_tempo.dll
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\bin\Debug\netcoreapp3.1\conversao_de_tempo.pdb
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\obj\Debug\netcoreapp3.1\conversao_de_tempo.csprojAssemblyReference.cache
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\obj\Debug\netcoreapp3.1\conversao_de_tempo.AssemblyInfoInputs.cache
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\obj\Debug\netcoreapp3.1\conversao_de_tempo.AssemblyInfo.cs
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\obj\Debug\netcoreapp3.1\conversao_de_tempo.csproj.CoreCompileInputs.cache
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\obj\Debug\netcoreapp3.1\conversao_de_tempo.dll
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\obj\Debug\netcoreapp3.1\conversao_de_tempo.pdb
+C:\Users\barba\source\repos\conversao_de_tempo\conversao_de_tempo\obj\Debug\netcoreapp3.1\conversao_de_tempo.genruntimeconfig.cache
